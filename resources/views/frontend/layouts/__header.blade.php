@@ -1,4 +1,3 @@
-    @dd(123)
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
@@ -13,7 +12,7 @@
                     <li class="nav-item"><a class="nav-link active" href="/">Trang chủ</a></li>
                     <li class="nav-item"><a class="nav-link @if(\Request::is('') != 1) nav-color @endif " href="{{route('product.index')}}">Dịch vụ</a></li>
                     <li class="nav-item"><a class="nav-link @if(\Request::is('') != 1) nav-color @endif" href="{{route('product.index')}}">Dự án</a></li>
-                    <li class="nav-item"><a class="nav-link @if(\Request::is('') != 1) nav-color @endif" href="blog">Tin tức</a></li>
+                    <li class="nav-item"><a class="nav-link @if(\Request::is('') != 1) nav-color @endif" href="{{route('news.index')}}">Tin tức</a></li>
                     <li class="nav-item"><a class="nav-link @if(\Request::is('') != 1) nav-color @endif" href="{{route('contact.index')}}">Liên hệ</a></li>
                 </ul>
             </div>

@@ -106,7 +106,7 @@
             <div class="col-md-4 mb-30">
                 <div class="item fotcont">
                     <div class="fothead">
-                        <h6>Phone</h6>
+                        <h6>Điện thoại</h6>
                     </div>
                     <p>+1 203-123-0606</p>
                 </div>
@@ -122,7 +122,7 @@
             <div class="col-md-4 mb-30">
                 <div class="item fotcont">
                     <div class="fothead">
-                        <h6>Our Address</h6>
+                        <h6>Địa chỉ</h6>
                     </div>
                     <p>24 King St, Charleston, SC 29401 USA</p>
                 </div>
