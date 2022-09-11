@@ -108,7 +108,7 @@
                     <div class="fothead">
                         <h6>Điện thoại</h6>
                     </div>
-                    <p>+1 203-123-0606</p>
+                    <p>098 659 44 86</p>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
@@ -116,7 +116,7 @@
                     <div class="fothead">
                         <h6>Email</h6>
                     </div>
-                    <p>architecture@bauen.com</p>
+                    <p>senvanglandcon@gmail.com</p>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
@@ -124,7 +124,7 @@
                     <div class="fothead">
                         <h6>Địa chỉ</h6>
                     </div>
-                    <p>24 King St, Charleston, SC 29401 USA</p>
+                    <p>47 Phố Mới - Thuỷ Sơn - Thuỷ Nguyên - Hải Phòng</p>
                 </div>
             </div>
         </div>
@@ -134,7 +134,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="text-left">
-                        <p>© 2022 Bauen. All right reserved.</p>
+                        <p>© 2022 Bản quyền thuộc về Quang Minh Invest</p>
                     </div>
                 </div>
                 <div class="col-md-4 abot">
@@ -144,7 +144,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <p class="right"><a href="#">Terms &amp; Conditions</a></p>
+                    <p class="right"><a href="#">Điều khoản dịch vụ</a></p>
                 </div>
             </div>
         </div>

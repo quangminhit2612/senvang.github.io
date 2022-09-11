@@ -23,15 +23,14 @@
             <div class="row mb-90">
                 <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
                     <p><b>Sen Vàng Land</b></p>
-                    <p>Our firm nisl sodales sit amet sapien idea placerat sodales orcite. Vivamus ne miss rhoncus felis
-                        bauen architecture.</p>
+                    <p>Chuyên kinh doanh, môi giới các sản phẩm bất động sản, tư vấn thiết kế, thi công và xây dựng</p>
                     <p><b>Giấy chứng nhận đăng ký doanh nghiệp số :</b> 0201626622 do Sở Kế hoạch và Đầu tư TP. Hải Phòng cấp ngày 23/03/2015.</p>
                 </div>
                 <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
                     <p><b>Thông tin liên hệ</b></p>
                     <p><b>Số điện thoại :</b> 098 659 44 86</p>
                     <p><b>Email :</b> senvanglandcon@gmail.com</p>
-                    <p><b>Địa chỉ :</b> 24 King St, Charleston, 29401 USA</p>
+                    <p><b>Địa chỉ :</b>  47 Phố Mới - Thuỷ Sơn - Thuỷ Nguyên - Hải Phòng</p>
                 </div>
                 <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                     <p><b>Đăng ký nhận thông tin về dự án</b></p>
@@ -54,10 +53,10 @@
                                 <input name="email" type="email" placeholder="Email *" required>
                             </div>
                             <div class="col-md-6 form-group">
-                                <input name="phone" type="text" placeholder="Tiêu đề *" required>
+                                <input name="phone" type="text" placeholder="Số điện thoại *" required>
                             </div>
                             <div class="col-md-12 form-group">
-                                <input name="subject" type="text" placeholder="Subject *" required>
+                                <input name="message" type="text" placeholder="Tiêu đề *" required>
                             </div>
                             <div class="col-md-12 form-group">
                                 <textarea name="message" id="message" cols="30" rows="4" placeholder="Tin nhắn *"

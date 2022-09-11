@@ -25,7 +25,7 @@
                         <div class="item">
                             <div class="position-re o-hidden"> <img src="{{$record->getImage()}}" alt=""> </div>
                             <div class="con"> <span class="category">
-                                    <a href="blog.html">Architecture </a> - {{$record -> getPostSchedule()}}
+                                    <a href="blog.html">Tin tức </a> - {{$record -> getPostSchedule()}}
                                 </span>
                                 <h5><a href="post.html">{{$record -> title}}</a></h5>
                             </div>
