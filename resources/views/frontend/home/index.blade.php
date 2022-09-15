@@ -55,20 +55,15 @@
             <div class="row">
                 <div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInUp">
                     <h2 class="section-title"><span>Về chúng tôi</span></h2>
-                    <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines
-                        aringianu atelit finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit
-                        tristique.</p>
-                    <p>Design inilla duiman at elit finibus viverra nec a lacus themo the drudea seneoice misuscipit
-                        non sagie the fermen.</p>
-                    <p>Planner inilla duiman at elit finibus viverra nec a lacus themo the drudea seneoice
-                        misuscipit non sagie the fermen. Viverra tristique jusio the ivite dianne onen nivami
-                        acsestion augue artine.</p>
+                    <p>Công ty TNHH đầu tư xây dựng phát triển SEN VÀNG Land - Với chức năng chính là chuyên kinh doanh, môi giới các sản phẩm bất động sản. Tư vấn thiết kế thi công xây dựng.</p>
+                    <p>Công ty SEN VÀNG Land & Con làm Chủ đầu tư, đồng thời tham gia kinh doanh, môi giới sản phẩm của các dự án bất động sản trên toàn quốc</p>
+                    <p>Trải qua hàng loạt biến động của thị trường, SEN VÀNG Land đang ngày một hoàn thiện và trưởng thành hơn từ những khó khăn, thử thách và tiếp tục phát huy những thế mạnh của mình trong lĩnh vực Môi giới, Đầu tư, Kinh doanh Bất Động Sản đồng thời đạt mục tiêu trở thành một Công ty Bất Động Sản hàng đầu Việt Nam </p>
                 </div>
                 <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
                     <div class="about-img">
                         <div class="img"> <img src="{!!asset('assets/frontend/img/about.jpg')!!}" class="img-fluid"
                                 alt=""> </div>
-                        <div class="about-img-2 about-buro">Canada Office</div>
+                        <div class="about-img-2 about-buro">Sen Vàng Land</div>
                     </div>
                 </div>
             </div>
