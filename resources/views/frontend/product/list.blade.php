@@ -19,46 +19,19 @@
                     </div>
                 </div>
                 <div class="row">
+
+                    @foreach($records as $key => $record)
                     <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
                         <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/projects/1.jpg')!!}" alt=""> </div>
+                            <div class="position-re o-hidden"> <img src="{{$record->getImage()}}" alt=""> </div>
                             <div class="con">
-                                <h6><a href="cotton-house.html">Interior</a></h6>
-                                <h5><a href="cotton-house.html">Cotton House</a></h5>
-                                <div class="line"></div> <a href="cotton-house.html"><i class="ti-arrow-right"></i></a>
+                                <h6>Dự án</h6>
+                                <h5><a href="{{$record->url()}}">{{$record -> title}}</a></h5>
+                                <div class="line"></div> <a href="{{$record->url()}}"><i class="ti-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/projects/2.jpg')!!}" alt=""> </div>
-                            <div class="con">
-                                <h6><a href="armada-center.html">Exterior</a></h6>
-                                <h5><a href="armada-center.html">Armada Center</a></h5>
-                                <div class="line"></div> <a href="armada-center.html"><i class="ti-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/projects/3.jpg')!!}" alt=""> </div>
-                            <div class="con">
-                                <h6><a href="stonya-villa.html">Urban</a></h6>
-                                <h5><a href="stonya-villa.html">Stonya Villa</a></h5>
-                                <div class="line"></div> <a href="stonya-villa.html"><i class="ti-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/projects/4.jpg')!!}" alt=""> </div>
-                            <div class="con">
-                                <h6><a href="prime-hotel.html">Interior</a></h6>
-                                <h5><a href="prime-hotel.html">Prime Hotel</a></h5>
-                                <div class="line"></div> <a href="prime-hotel.html"><i class="ti-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
+                    @endforeach
                 </div>
             </div>
         </section>

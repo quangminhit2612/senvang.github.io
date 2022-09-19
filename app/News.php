@@ -21,7 +21,7 @@ class News extends Model {
     }
 
     public function getPostSchedule() {
-        return date('d/m/Y', strtotime($this->post_schedule != '0000-00-00 00:00:00' ?: $this->created_at));
+        return date('d-m-Y', strtotime($this->post_schedule != '0000-00-00 00:00:00' ? $this->post_schedule : $this->created_at));
     }
 
     public function url() {

@@ -59,7 +59,7 @@
                         <span>Cấu hình website</span>
                     </a>
                 </li>
-                <li class="nav-item nav-item-submenu">
+                <!-- <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-user-tie"></i> <span>Người dùng</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Layouts">
 
@@ -74,7 +74,7 @@
                             </a>
                         </li>
                     </ul>
-                </li>
+                </li> -->
                 @endif
                 <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-newspaper2"></i> <span>Tin tức</span></a>
@@ -85,7 +85,7 @@
                 </li>
                 
                 
-                <li class="nav-item nav-item-submenu">
+                <!-- <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-video-camera"></i> <span>Video</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Layouts">
                         <li class="nav-item"><a href="{{route('admin.category.index', \App\Category::TYPE_VIDEO)}}" class="nav-link">Danh mục</a></li>
@@ -98,7 +98,7 @@
                         <li class="nav-item"><a href="{{route('admin.category.index', \App\Category::TYPE_GALLERY)}}" class="nav-link">Danh mục</a></li>
                         <li class="nav-item"><a href="{{route('admin.gallery.index')}}" class="nav-link">Hình ảnh</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-copy"></i> <span>Sản phẩm</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Sản phẩm">
@@ -107,7 +107,7 @@
                         <li class="nav-item"><a href="{{route('admin.attribute.index')}}" class="nav-link">Thuộc tính</a></li>
                     </ul>
                 </li>
-                <li class="nav-item nav-item-submenu">
+                <!-- <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-copy"></i> <span>Giao diện</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Layouts">
                         <li class="nav-item"><a href="{{route('admin.slide.index')}}" class="nav-link">Slide</a></li>
@@ -126,7 +126,7 @@
                         <li class="nav-item"><a href="{{route('admin.project.index')}}" class="nav-link">Dự án</a></li>
                         <li class="nav-item"><a href="{{route('admin.review.index')}}" class="nav-link">Đánh giá</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-users"></i> <span>Khách hàng</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Khách hàng">
@@ -136,13 +136,13 @@
                         <li class="nav-item"><a href="{{route('admin.order.index')}}" class="nav-link">Đơn hàng</a></li>
                     </ul>
                 </li>
-                <li class="nav-item nav-item-submenu">
+                <!-- <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-copy"></i> <span>Tiếp thị liên kết</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Layouts">
                         <li class="nav-item"><a href="{{route('admin.marketing.index')}}" class="nav-link">Tài khoản</a></li>
                         <li class="nav-item"><a href="{{route('admin.rank.index')}}" class="nav-link">Danh mục cấp bậc</a></li>
                     </ul>
-                </li>
+                </li> -->
             
 
 

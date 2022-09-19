@@ -32,36 +32,6 @@
                         </div>
                     </div>
                     @endforeach
-                    <div class="col-md-6">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/slider/2.jpg')!!}" alt=""> </div>
-                            <div class="con"> <span class="category">
-                                    <a href="blog.html">Interior</a> - 18.12.2022
-                                </span>
-                                <h5><a href="post2.html">Modernism in Architecture</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/slider/3.jpg')!!}" alt=""> </div>
-                            <div class="con"> <span class="category">
-                                    <a href="blog.html">Urban</a> - 16.12.2022
-                                </span>
-                                <h5><a href="post3.html">Postmodern Architecture</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="item">
-                            <div class="position-re o-hidden"> <img src="{!!asset('assets/frontend/img/slider/4.jpg')!!}" alt=""> </div>
-                            <div class="con"> <span class="category">
-                                    <a href="blog.html">Planing</a> - 14.12.2022
-                                </span>
-                                <h5><a href="post4.html">Modern Architecture Buildings</a></h5>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
