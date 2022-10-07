@@ -11,24 +11,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
-                            <h1>Innovate Desing in Toronto</h1>
-                            <p>Architecture viverra tellus nec massa dictum the euismoe.
-                                <br>Curabitur viverra the posuere aukue velit.
-                            </p>
-                            <div class="butn-light mt-30 mb-30"> <a href="https://1.envato.market/mDnXD"
-                                    target="_blank"><span>Xem thêm</span></a> </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="text-left item bg-img" data-overlay-dark="4"
-            data-background="{!!asset('assets/frontend/img/slider/2.jpg')!!}">
-            <div class="v-middle caption mt-30">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-7">
-                            <h1>Innovate Desing in Canada</h1>
+                            <h1>Sen Vàng Land</h1>
                             <p>Architecture viverra tellus nec massa dictum the euismoe.
                                 <br>Curabitur viverra the posuere aukue velit.
                             </p>
@@ -129,11 +112,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="item">
                         <a href="architecture.html"> <img src="{!!asset('assets/frontend/img/icons/icon-1.png')!!}"
                                 alt="">
-                            <h5>Architecture</h5>
+                            <h5>Đầu tư, kinh doanh bất động sản</h5>
                             <div class="line"></div>
                             <p>Architecture bibendum eros eget lacus the vulputate sit amet vehicuta nibhen ulicera
                                 in the vitae miss.</p>
@@ -141,11 +124,11 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="item">
                         <a href="interior-design.html"> <img src="{!!asset('assets/frontend/img/icons/icon-2.png')!!}"
                                 alt="">
-                            <h5>Interior Design</h5>
+                            <h5>Giao dịch bất động sản</h5>
                             <div class="line"></div>
                             <p>Architecture bibendum eros eget lacus the vulputate sit amet vehicuta nibhen ulicera
                                 in the vitae miss.</p>
@@ -153,15 +136,27 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="item">
                         <a href="urban-design.html"> <img src="{!!asset('assets/frontend/img/icons/icon-3.png')!!}"
                                 alt="">
-                            <h5>Urban Design</h5>
+                            <h5>Tư vấn pháp lý bất động sản</h5>
                             <div class="line"></div>
                             <p>Architecture bibendum eros eget lacus the vulputate sit amet vehicuta nibhen ulicera
                                 in the vitae miss.</p>
                             <div class="numb">03</div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="item">
+                        <a href="urban-design.html"> <img src="{!!asset('assets/frontend/img/icons/icon-4.png')!!}"
+                                alt="">
+                            <h5>Thiết kế, thi công, xây dựng công trình</h5>
+                            <div class="line"></div>
+                            <p>Architecture bibendum eros eget lacus the vulputate sit amet vehicuta nibhen ulicera
+                                in the vitae miss.</p>
+                            <div class="numb">04</div>
                         </a>
                     </div>
                 </div>

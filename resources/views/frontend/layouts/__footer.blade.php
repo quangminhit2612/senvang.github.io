@@ -138,13 +138,13 @@
                     </div>
                 </div>
                 <div class="col-md-4 abot">
-                    <div class="social-icon"> <a href="index.html"><i class="ti-facebook"></i></a> <a
-                            href="index.html"><i class="ti-twitter"></i></a> <a href="index.html"><i
-                                class="ti-instagram"></i></a> <a href="index.html"><i class="ti-pinterest"></i></a>
+                    <div class="social-icon"> <a href="javascript:void(0)"><i class="ti-facebook"></i></a> <a
+                            href="javascript:void(0)"><i class="ti-twitter"></i></a> <a href="javascript:void(0)"><i
+                                class="ti-instagram"></i></a> <a href="javascript:void(0)"><i class="ti-pinterest"></i></a>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <p class="right"><a href="#">Điều khoản dịch vụ</a></p>
+                    <p class="right"><a href="javascript:void(0)">Điều khoản dịch vụ</a></p>
                 </div>
             </div>
         </div>

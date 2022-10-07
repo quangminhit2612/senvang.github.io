@@ -15,5 +15,10 @@ Route::group(['middleware' => 'frontend'], function() {
 
     /* Liên hệ */
     Route::get('/contact', ['as' => 'contact.index', 'uses' => 'Frontend\FrontendController@contact']);
+    
+    /* Xem dự án cho nhân viên */
+    Route::get('/noi-bo', ['as' => 'product_management.index', 'uses' => 'Frontend\ProductManagementController@index']);
+    Route::get('/login-noibo', ['as' => 'product_management.login', 'uses' => 'Frontend\ProductManagementController@login']);
+    Route::post('/login-noibo', ['as' => 'product_management.postLogin', 'uses' => 'Frontend\ProductManagementController@postLogin']);
 
 });

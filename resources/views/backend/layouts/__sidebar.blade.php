@@ -107,7 +107,7 @@
                         <li class="nav-item"><a href="{{route('admin.attribute.index')}}" class="nav-link">Thuộc tính</a></li>
                     </ul>
                 </li>
-                <!-- <li class="nav-item nav-item-submenu">
+                <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-copy"></i> <span>Giao diện</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Layouts">
                         <li class="nav-item"><a href="{{route('admin.slide.index')}}" class="nav-link">Slide</a></li>
@@ -117,7 +117,7 @@
                         <li class="nav-item"><a href="{{route('admin.template_setting.index')}}" class="nav-link">Tùy chỉnh giao diện</a></li>
                     </ul>
                 </li>
-                <li class="nav-item nav-item-submenu">
+                <!-- <li class="nav-item nav-item-submenu">
                     <a href="#" class="nav-link"><i class="icon-bucket"></i> <span>Thi công</span></a>
                     <ul class="nav nav-group-sub" data-submenu-title="Thi công">
                         <li class="nav-item"><a href="{{route('admin.construction.index')}}" class="nav-link">Đơn vị thi công</a></li>
